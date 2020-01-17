@@ -1,7 +1,7 @@
 # 1. Hello, you!
 
-# name = input('What is your name? ')
-# print('Hello ' + name + '!')
+name = input('What is your name? ')
+print('Hello ' + name + '! How are you today!')
 
 # ------------------------#
 
